@@ -78,7 +78,7 @@ def push_file(fileName, repo_slug, branch, user, token):
         print(e)
 
 
-fileName = "yourFilename.txt"
+fileName = "updatedFile.txt"
 repositoryName = "username/repository"
 branch = "branchName"
 username = "Git_username"
