@@ -81,8 +81,9 @@ def push_file(fileName, repo_slug, branch, user, token):
 fileName = "yourFilename.txt"
 repositoryName = "username/repository"
 branch = "branchName"
-user = "Git_username"
+username = "Git_username"
 token = GITHUB_TOKEN #please check from credentials.py and remember it has to be confidential 
 
 
+push_file(fileName,repositoryName,branch,user=username,token=token)
 
