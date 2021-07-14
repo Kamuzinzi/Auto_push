@@ -28,7 +28,8 @@ pip install PyGithub==1.55
 ## Use of the token
 
 Open the credentials.py and replace the generated token with the string in the quotes.
-Note. credentials.py is incrude in .gitignore
+
+Note. credentials.py is incruded in .gitignore
 
 ##Run the backup.py file to create the model
 
