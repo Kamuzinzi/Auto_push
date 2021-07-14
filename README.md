@@ -31,10 +31,11 @@ Open the credentials.py and replace the generated token with the string in the q
 
 Note. credentials.py is incruded in .gitignore
 
-##Run the backup.py file to create the model
+## Run the backup.py file to create the model
 
+```
 python backup.py
-
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
